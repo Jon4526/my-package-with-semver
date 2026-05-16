@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.1 (2026-05-16)
+
+### Bug Fixes
+
+- Correct a minor bug
+  ([`c491002`](https://github.com/Jon4526/my-package-with-semver/commit/c491002f404b1db13e57f8bfc5715ecff642e953))
+
+
 ## v2.0.0 (2026-05-16)
 
 ### Features
